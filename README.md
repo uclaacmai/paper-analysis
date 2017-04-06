@@ -8,3 +8,7 @@ For example, I explain things like probabalistic interpretations of ML algorithm
 
 I then explain how the tougher concept in the papers can be seen as building upon these blocks. 
 My goal in doing this is for me to better understand recent papers and get better with tensorflow, as well as to show that deep learning research can be understood through understanding the core concepts. 
+
+### Credits/Sources
+
+@adeshpande3 for helping with the noise labels corruption implementation
