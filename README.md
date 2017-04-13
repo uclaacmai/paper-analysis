@@ -6,7 +6,7 @@ These papers are analyzed and summarized with emphasis on core machine learning 
 
 We seek to explain the tougher ideas in these papers by building up to them from well-understood machine learning concepts. 
 
-Our goal is to both understand these papers better, learn tensorfolw, and show that deep learning research can be understood through understanding some core concepts. 
+Our goal is to both understand these papers better, learn tensorflow, and show that deep learning research can be understood through understanding some core concepts. 
 
 ### Current Contributors
 
