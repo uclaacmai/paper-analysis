@@ -2,14 +2,17 @@
 
 Analysis and implementation (in tensorflow) of deep learning papers. 
 
-I analyzed these papers by contextualizing the core machine learning and deep learning concepts that were used. 
+These papers are analyzed and summarized with emphasis on core machine learning and deep learning concepts that were used. 
 
-For example, I explain things like probabalistic interpretations of ML algorithms, maximum likelihood estimation, and ML concepts such as SGD. 
+We seek to explain the tougher ideas in these papers by building up to them from well-understood machine learning concepts. 
 
-I then explain how the tougher concepts in the papers can be seen as building upon these blocks.
+Our goal is to both understand these papers better, learn tensorfolw, and show that deep learning research can be understood through understanding some core concepts. 
 
-My goal in doing this is for me to better understand recent papers and get better with tensorflow, as well as to show that deep learning research can be understood through understanding the core concepts. 
+### Current Contributors
 
-### Credits/Sources
+@adeshpande3
+@rohan-varma
 
-@adeshpande3 for helping with the noise labels corruption implementation
+### Contributing
+
+Feel free to contribute with any summaries or implementations of models from papers. Fork the repo and create a pull request with your changes. 
